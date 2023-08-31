@@ -1,4 +1,4 @@
-# Bikerz Zone <sup>( Bootsrtap project )</sup>
+# Bikerz Zone <sub>( Bootsrtap project )</sub>
 * **Live link:** https://bikerz-zone1.netlify.app/
 ## Used packages/technology
 * HTML
